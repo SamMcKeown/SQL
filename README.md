@@ -7,4 +7,4 @@ A collection of selected data science projects to demonstrate my SQL knowledge
 **PostgreSQL**: 
 
 **Psycopg2**:
-- An introduction to using a python cursor class
+- Python cursor class guide using `Amazon Relational Database Service (RDS)`
