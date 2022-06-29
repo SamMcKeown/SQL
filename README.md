@@ -7,3 +7,4 @@ A collection of selected data science projects to demonstrate my SQL knowledge
 **PostgreSQL**: 
 
 **Psycopg2**:
+- An introduction to using a python cursor class
